@@ -1,0 +1,17 @@
+.article {
+    text-align: start;
+    padding: 0.5rem;
+}
+.motherHeading {
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading {
+    color: aqua;
+    padding: 0.2rem;
+    box-shadow: 0 1px 7px #3d3a50;;
+    font-size: 1.2rem;
+    text-align: center;
+}
